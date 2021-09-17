@@ -7,5 +7,3 @@ export default function App(){
     <SignIn />
   );
 }
-
-// parei em 58:26
